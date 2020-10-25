@@ -1,4 +1,4 @@
-Get OpenVPN L2 client files from your server software and follow instructions in etc/openvpn/client/example_bridge.conf
+Get OpenVPN L2 client file from your server software and follow instructions in etc/openvpn/client/example_bridge.conf
 
 In etc/openvpn/bridge/bridge-start  
 `eth=` must match the name of the interface you are using for your bridge (as seen in `ip link` command)  
