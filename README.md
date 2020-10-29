@@ -1,3 +1,5 @@
+You'll need OpenVPN client and likely the `bridge-utils` package
+
 Get OpenVPN L2 client file from your server software and follow instructions in etc/openvpn/client/example_bridge.conf
 
 In etc/openvpn/bridge/bridge-start  
